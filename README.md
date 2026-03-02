@@ -74,13 +74,17 @@ Open your browser and navigate to `http://localhost:5173/`.
 
 
 ## Screenshots
-![p1](https://github.com/Sujan-Koirala021/PawRover/assets/84112374/23b6cbc1-be7e-472f-8ae7-7c3189dedcee)
-![p2](https://github.com/Sujan-Koirala021/PawRover/assets/84112374/1932f8d6-4c6b-4614-a414-403d2d8f3f46)
-![p3](https://github.com/Sujan-Koirala021/PawRover/assets/84112374/cb682ddf-ad1a-4250-8f2d-73294a911249)
-![p4](https://github.com/Sujan-Koirala021/PawRover/assets/84112374/35cc3804-f121-4205-b65f-49fd49cf602a)
-![p5](https://github.com/Sujan-Koirala021/PawRover/assets/84112374/faae7536-d014-4f73-b4f8-bc89cbbc6df6)
-![p6](https://github.com/Sujan-Koirala021/PawRover/assets/84112374/d27ba114-ddbb-4b97-b138-ebd4f4502da5)
-![p7](https://github.com/Sujan-Koirala021/PawRover/assets/84112374/032432f9-2856-4aff-83bd-8a066d2a338b)
+
+
+<img width="1657" height="791" alt="Image" src="https://github.com/user-attachments/assets/472a1d8c-969c-40f9-b677-5691e7052f27" />
+
+<img width="1657" height="770" alt="Image" src="https://github.com/user-attachments/assets/0e577a5b-d06f-4965-afca-bc45345db2cc" />
+
+<img width="1657" height="770" alt="Image" src="https://github.com/user-attachments/assets/ee190ea9-08cc-4152-9c67-01de1a9a055d" />
+
+<img width="1657" height="802" alt="Image" src="https://github.com/user-attachments/assets/ca63d13d-bc38-45b8-92fb-99c4fc4f37f9" />
+
+<img width="1657" height="802" alt="Image" src="https://github.com/user-attachments/assets/1d2c7561-0e59-4572-8bbc-e0d00109a2f7" />
 
 
 ## Contributing
