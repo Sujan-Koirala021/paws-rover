@@ -8,35 +8,6 @@
 
 
 
-
-</p>
-<p align="center">
-    <p align="center">
-        <a href="https://github.com/Sujan-Koirala021/PawRover" target="blank">
-            <img src="https://img.shields.io/github/watchers/Sujan-Koirala021/PawRover?style=for-the-badge&logo=appveyor" alt="Watchers"/>
-        </a>
-        <a href="https://github.com/Sujan-Koirala021/PawRover" target="blank">
-            <img src="https://img.shields.io/github/forks/Sujan-Koirala021/PawRover?style=for-the-badge&logo=appveyor" alt="Forks"/>
-        </a>
-        <a href="https://github.com/Sujan-Koirala021/PawRover/stargazers" target="blank">
-            <img src="https://img.shields.io/github/stars/Sujan-Koirala021/PawRover?style=for-the-badge&logo=appveyor" alt="Star"/>
-        </a>
-    </p>
-    <p align="center">
-        <a href="https://github.com/Sujan-Koirala021/PawRover/issues" target="blank">
-            <img src="https://img.shields.io/github/issues/Sujan-Koirala021/PawRover?style=for-the-badge&logo=appveyor" alt="Issue"/>
-        </a>
-        <a href="https://github.com/Sujan-Koirala021/PawRover/pulls" target="blank">
-            <img src="https://img.shields.io/github/issues-pr/Sujan-Koirala021/PawRover?style=for-the-badge&logo=appveyor" alt="Open Pull Request"/>
-        </a>
-    </p>
-    <p align="center">
-        <a href="https://github.com/Sujan-Koirala021/PawRover/blob/master/LICENSE" target="blank">
-            <img src="https://img.shields.io/github/license/Sujan-Koirala021/PawRover?style=for-the-badge&logo=appveyor" alt="License" />
-        </a>
-    </p>
-</p>
-
 ## Introduction
 Welcome to Paw Rover, the ultimate platform designed to connect pet lovers with homestays around the globe. Paw Rover offers a seamless and delightful experience, enabling you to find the perfect pet sitter or discover cozy homes to sit, all while enjoying the company of adorable pets. Explore the world of pet care with ease and confidence through our comprehensive and user-friendly features.
 
